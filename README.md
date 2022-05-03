@@ -1,7 +1,7 @@
 
 
 # Shae O'Neil!
-[headshot2](https://user-images.githubusercontent.com/71461886/166391757-cef7baf6-3250-41ba-86d6-d7106a36b7b3.jpg =10x10)
+[headshot2]<img src= "https://user-images.githubusercontent.com/71461886/166391757-cef7baf6-3250-41ba-86d6-d7106a36b7b3.jpg" width=50% height= 50%> 
 
 
 ## Graduating Senior at the University of Iowa
