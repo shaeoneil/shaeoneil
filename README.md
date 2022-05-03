@@ -1,11 +1,10 @@
 
 
-# Shae O'Neil
+# Shae O'Neil, May 2022 Graduate
 
-## Graduating Senior at the University of Iowa
-
+## Business Analytics student at the University of Iowa
+📫 How to reach me:
 ###### **Moving to:** Chicago,IL
-
 ###### **Email:** shaeoneil26@gmail.com
 
 <!--
