@@ -1,4 +1,9 @@
-### Hi there 👋
+#Shae O'Neil
+
+##Graduating Senior at the University of Iowa
+
+######**Moving to:** Chicago,IL
+######**Email:** shaeoneil26@gmail.com
 
 <!--
 **shaeoneil/shaeoneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
