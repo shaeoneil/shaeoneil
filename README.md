@@ -3,9 +3,11 @@
 # Shae O'Neil, May 2022 Graduate
 
 ## Business Analytics student at the University of Iowa
-📫 How to reach me:
+
 ###### **Moving to:** Chicago,IL
-###### **Email:** shaeoneil26@gmail.com
+🌱 I’m currently learning advanced techniques in R, VBA, and PowerBI
+
+📫 How to reach me: **Email:** shaeoneil26@gmail.com
 
 <!--
 **shaeoneil/shaeoneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
